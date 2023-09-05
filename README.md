@@ -2,14 +2,14 @@
 
 <ul>
     <ol>
-        -Software Engineer
+    -Software Engineer
     </ol>
-     <ol>
-        -App Developer
+    <ol>
+    -App Developer
     </ol>
-     <ol>
-        -Problem Solver
-     </ol>
+    <ol>
+    -Problem Solver
+    </ol>
 </ul>
 
 ## My Tech Stack
