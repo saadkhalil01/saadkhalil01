@@ -1,6 +1,16 @@
 <h1>Hi, I am Saad</h1>
-I am an under grad computer science student based in Lahore, Pakistan. With a strong background in software engineering, I'm driven by a passion for creating cutting-edge real-world applications that address practical challenges. My focus lies in leveraging the power of AI and machine learning to develop solutions that make a genuine impact.
 
+<ul>
+    <ol>
+        -Software Engineer
+    </ol>
+     <ol>
+        -App Developer
+    </ol>
+     <ol>
+        -Problem Solver
+     </ol>
+</ul>
 
 ## My Tech Stack
 
@@ -20,13 +30,10 @@ I am an under grad computer science student based in Lahore, Pakistan. With a st
 
 ## Coding Profiles
 
-<a  href="https://codepen.io/aliHexaM1">
-    <img align="left" width="32px" src="https://i.ibb.co/QNXN4BG/codepen-icon-26.png" alt="codepen-icon-26" >
-</a>
-<a  width="40px" href="https://www.hackerrank.com/alimuradbukhari1">
+<a  width="40px" href="https://www.hackerrank.com/saad_999">
   <img align="left" src="https://i.ibb.co/GxL84YG/Hacker-Rank-Icon-1000px.png" width="32px" alt="Hacker-Rank">
 </a>
-<a  width="40px" href="https://leetcode.com/alimuradbukhari12345/">
+<a  width="40px" href="https://leetcode.com/saad_999/">
   <img align="left" src="https://i.ibb.co/0Q5hfMX/leetcode.png" alt="leetcode" width="32px">
 </a>
 
