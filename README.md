@@ -43,10 +43,10 @@
 
 
 ## Let's Connect
-<a  width="40px" href="https://www.linkedin.com/in/ali-murad-6ba258204/">
+<a  width="40px" href="https://www.linkedin.com/in/saad-khalil-0912b2232/">
   <img align="left"  width="32px" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" />
 </a>
-<a href="mailto:alimuradbukhari12345@gmail.com">
+<a href="mailto:saadkhalil9999@gmail.com">
     <img align="left"  width="32px"  src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new">
 </a>
 
