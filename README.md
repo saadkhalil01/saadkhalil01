@@ -55,5 +55,6 @@
     <img align="left"  width="32px"  src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new">
 </a>
 <a href="https://medium.com/@saadkhalil773">
-    <img align="left"  width="32px"  src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="medium">
+    <img align="left"  width="32px"  src="![image](https://github.com/saadkhalil01/saadkhalil01/assets/100115030/30e1c20c-1c01-44fc-a526-bed2539a00d5)
+" alt="medium">
 </a>
