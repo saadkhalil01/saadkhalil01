@@ -54,4 +54,6 @@
 <a href="mailto:saadkhalil9999@gmail.com">
     <img align="left"  width="32px"  src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new">
 </a>
-
+<a href="https://medium.com/@saadkhalil773">
+    <img align="left"  width="32px"  src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="medium">
+</a>
