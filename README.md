@@ -2,7 +2,7 @@
 <p>
    -> Final Year Student currently in 7th Semester of BSCS in FCIT (Faculty of Computing & Information Technology) aka PUCIT.<br>
    -> Part time Software Engineer at MetaDots.<br>
-   -> Currently working React Native,dotNet
+   -> Currently working React Native
 </p>
 
 <ul>
@@ -10,7 +10,7 @@
     -Software Engineer
     </ol>
     <ol>
-    -App Developer
+    -App Developer (React Native)
     </ol>
     <ol>
     -Problem Solver
