@@ -1,6 +1,5 @@
 <h1>Hi 👋🏻, I am Saad </h1>
 <p>
-   -> Final Year Student of BSCS in FCIT (Faculty of Computing & Information Technology) previously PUCIT.<br>
    -> Associate Software Engineer at MetaDots.<br>
    -> Currently working with React Native
 </p>
