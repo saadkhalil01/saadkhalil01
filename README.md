@@ -1,6 +1,6 @@
-<h1>Hi 👋🏻, I am Saad </h1>
+<h1>Hi 👋🏻, I am Saad Khalil!! </h1>
 <p>
-   -> Associate Software Engineer at MetaDots.<br>
+   -> Asc Software Engineer at MetaDots.<br>
    -> Currently working with React Native
 </p>
 
@@ -33,10 +33,6 @@
 <br />
 
 ## Coding Profiles
-
-<a  width="40px" href="https://www.hackerrank.com/saad_999">
-  <img align="left" src="https://i.ibb.co/GxL84YG/Hacker-Rank-Icon-1000px.png" width="32px" alt="Hacker-Rank">
-</a>
 <a  width="40px" href="https://leetcode.com/saad_999/">
   <img align="left" src="https://i.ibb.co/0Q5hfMX/leetcode.png" alt="leetcode" width="32px">
 </a>
