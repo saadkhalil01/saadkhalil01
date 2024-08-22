@@ -1,7 +1,7 @@
 <h1>Hi 👋🏻, I am Saad Khalil!! </h1>
 <p>
    -> Asc Software Engineer at MetaDots.<br>
-   -> Currently working with React Native
+   -> React Native Developer
 </p>
 
 <ul>
