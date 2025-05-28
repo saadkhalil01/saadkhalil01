@@ -27,20 +27,8 @@
 <img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 <img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-
-
 <br />
 <br />
-
-## Coding Profiles
-<a  width="40px" href="https://leetcode.com/saad_999/">
-  <img align="left" src="https://i.ibb.co/0Q5hfMX/leetcode.png" alt="leetcode" width="32px">
-</a>
-
-<br />
-<br />
-
-
 
 ## Let's Connect
 <a  width="40px" href="https://www.linkedin.com/in/saad-khalil-0912b2232/">
