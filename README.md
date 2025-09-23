@@ -1,7 +1,7 @@
 <h1>Hi 👋🏻, I am Saad Khalil!! </h1>
 <p>
-   -> Full Stack Software Engineer at Metadots.<br>
-   -> MERN Web & Mobile App
+   -> Full Stack Mobile Apps Engineer at Metadots.<br>
+   -> 2 Years React Native Experience
 </p>
 
 <ul>
