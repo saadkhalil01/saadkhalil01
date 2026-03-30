@@ -1,39 +1,39 @@
-<h1>Hi 👋🏻, I am Saad Khalil!! </h1>
+<!-- Saad Khalil · GitHub README -->
+
+<h1>Hey, I'm Saad Khalil 👋</h1>
+
 <p>
-   -> Full Stack Mobile Apps Engineer at Metadots.<br>
-   -> 2 Years React Native Experience
+  Mobile engineer based in Lahore, building apps people actually open every day.<br>
+  <strong>React Native (CLI + Expo)</strong> for cross-platform · <strong>SwiftUI</strong> for native iOS · freelancing on Upwork.
 </p>
 
-<ul>
-    <ol>
-    -Software Engineer
-    </ol>
-    <ol>
-    -App Dev
-    </ol>
-    <ol>
-    -Problem Solver
-    </ol>
-</ul>
+---
 
-## My Tech Stack
+### Published Apps
+| App | Platform |
+|---|---|
+| **MyndSpark** | iOS / Android |
+| **LoyalAI** | iOS / Android |
+| **FanGenie** | iOS / Android |
+| **SplitMart** | iOS / Android |
 
-<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1" />
-<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/color/48/react-native.png" alt="react react-native" />
-<img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" />
-<img align="left" alt="Website" width="32px" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js" />
-<img align="left" alt="Website" width="32px" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
-<img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" />
-<img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-<img align="left" alt="Website" width="32px" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+---
 
-<br />
-<br />
+### Tech Stack
 
-## Let's Connect
-<a  width="40px" href="https://www.linkedin.com/in/saad-khalil-0912b2232/">
-  <img align="left"  width="32px" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" />
-</a>
-<a href="mailto:saadkhalil9999@gmail.com">
-    <img align="left"  width="32px"  src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new">
-</a>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+---
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalil-0912b2232/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saadkhalil9999@gmail.com)
+[![Portfolio](https://img.shields.io/badge/saadkhalil.dev-000?style=flat&logo=vercel&logoColor=white)](https://saadkhalil.dev)
+
