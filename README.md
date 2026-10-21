@@ -35,5 +35,4 @@
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalil-0912b2232/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saadkhalil9999@gmail.com)
-[![Portfolio](https://img.shields.io/badge/saadkhalil.dev-000?style=flat&logo=vercel&logoColor=white)](https://saadkhalil.dev)
 
